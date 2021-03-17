@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "It's a calculator \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dsimple calculator, developing without frameworks, just using Js, HTML e Css.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Vitoria Amorim",
+  "license": "ISC"
+}

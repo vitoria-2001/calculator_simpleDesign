@@ -17,4 +17,4 @@ function calc() {
             document.getElementById('result').innerHTML = "NaN"
         }
 
-}
+};
